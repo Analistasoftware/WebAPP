@@ -7,19 +7,18 @@
 html{
 	font-family: 'Coming Soon', cursive;
 }
-.grey.lighten-4 {
-    background-color: #fff !important;
+
+.btn-facebook{
+	
+	background: #3b5998;
+	color: #fff;
 }
 
-.row .col.s12 {
-    width: 10%;
-    margin-left: auto;
-    left: auto;
-    right: auto;
-}.uno{
-	background: black;
+.btn-google{
+	
+	background: #dd4b39;
+	color: #fff;
 }
-
 
 
 
